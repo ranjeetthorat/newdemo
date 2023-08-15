@@ -1,0 +1,101 @@
+.inliness {
+	position: absolute;
+	left: 300px;
+	top: 70px;
+}
+
+.center {
+	text-align: center;
+}
+
+.printcl {
+	margin-left: 900px;
+	Width: 80px;
+	height: 30px;
+	color: green;
+}
+
+table {
+	border-collapse: collapse;
+	border: 2px solid black;
+}
+
+.maintd {
+	border: 2px solid black;
+}
+
+tr.secondrow {
+	border: 1px solid;
+}
+
+tr.thirdrow {
+	border: 1px solid;
+}
+
+tr.fourthrow {
+	border: 1px solid;
+}
+
+.wrapper {
+	margin-top: 30px
+}
+
+table {
+	border: none;
+	border-collapse: collapse;
+}
+
+table td.maintd {
+	border-left: 2px solid #000;
+	border-right: 2px solid #000;
+}
+
+.maintd {
+	border-collapse: collapse;
+}
+
+.firstrow {
+	border-collapse: collapse;
+	background-color: #84a9ac;
+}
+
+.outerth {
+	font-size: 12px;
+}
+
+ .chart-container {
+	/* //margin: auto; */
+	margin-top: 10px;
+	/* width: 1040px; */
+	/* height: auto; */
+	padding:20px;
+} 
+
+.hides {
+	display: none;
+}
+
+td {
+	font-size: 10px;
+	font-weight: 500;
+	
+}
+
+
+table.inner {
+	width:100%;
+	
+}
+.maincontan{
+	width:100%;
+}
+.myalign {
+position: relative;
+float:right;
+}
+
+@media print {
+    html, body {
+        height: 100% !important;    
+    }
+}

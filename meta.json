@@ -1,0 +1,17 @@
+{
+    "name":"clogsystem",
+    "bitbucket":{
+               "username":"clog200@gmail.com",
+               "auth":"Clog200200",
+               "url":"https://bitbucket.org/controlsystem41/clogsof4.1/src/master/"
+             },
+    "production changes":{
+                "display.php":"remove exit statment",
+                "userlogout.php":"point window.location url to display.php",
+                "logout.php":"point window.location url to display.php"
+    },
+    "issues status":{
+      "comment":"commt id 3604a84  working fine.Client approval pending"
+    }
+
+}
